@@ -1,6 +1,6 @@
 
 
-## <img src="https://cdn-icons-png.flaticon.com/512/5619/5619906.png" width="20" height="20"> DogRun
+## <img src="https://cdn-icons-png.flaticon.com/512/2171/2171990.png" width="20" height="20"> DogRun
 ### <img src="https://cdn-icons-png.flaticon.com/512/141/141073.png" width="20" height="20"> Mais sobre o jogo
 
 > <img src="https://cdn-icons-png.flaticon.com/512/4661/4661320.png" width="20" height="20">  Desenvolvido para plataforma Web.
